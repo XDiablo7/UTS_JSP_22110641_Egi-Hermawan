@@ -97,9 +97,3 @@ UTS_JSP_NIM_NAMA
 * Tidak menggunakan database, semua data menggunakan ArrayList
 * File JSP saling terhubung lewat `session` dan `request`
 * Desain sederhana namun rapi dengan Bootstrap
-
----
-
-Kalau kamu mau, bisa saya bantu simpan ke file `.md` dan sertakan dalam `.zip` proyek juga.
-Mau sekalian saya buatin file `README.md` dan upload ke sini?
-
