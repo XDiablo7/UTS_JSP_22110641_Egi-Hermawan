@@ -48,7 +48,7 @@ Transaksi akan ditampilkan dalam bentuk struk sederhana.
 
 #### 🧾 Struk Pemesanan
 
-![Struk](images/Struk.png)
+![Struk](images/struk.png)
 
 ---
 
